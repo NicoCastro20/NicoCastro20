@@ -8,9 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicocastro01207@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tuportfolio.com)
 
 </div>
 
@@ -29,7 +27,7 @@ const estudiante = {
     objetivos: [
         "Seguir aprendiendo",
         "Crear proyectos reales", 
-        "Encontrar mi primer empleo tech"
+        "Encontrar mi primer trabajo como programador"
     ]
 };
 ```
@@ -51,69 +49,6 @@ const estudiante = {
 ### Estilos & Herramientas
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vscode&theme=dark" alt="Tools"/>
 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</div>
-
----
-
-## Lo que estoy aprendiendo
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,java" alt="Backend"/>
-
-**Backend**
-
-APIs REST con Laravel
-
-Arquitectura MVC
-
-PHP & Java
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=react,vue,js" alt="Frontend"/>
-
-**Frontend**
-
-SPAs con React/Vue
-
-Interfaces responsive
-
-JavaScript moderno
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database"/>
-
-**Bases de Datos**
-
-Diseño de esquemas
-
-Queries SQL
-
-MySQL
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
