@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hey! Soy Nicolás Castro Pérez 🚀
+# Hey! Soy Nicolás Castro Pérez 
 
-### Desarrollador Full Stack
+### Estudiante de Desarrollo de Aplicaciones Web
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Laravel+%2B+React+%2B+Vue;Creando+soluciones+digitales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Estudiante+DAW;Laravel+%2B+React+%2B+Vue;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG" />
 
 <br/>
 
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](nicoccastro01207@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](nicocastro01207@gmail.com)
 
 
 </div>
@@ -20,16 +20,16 @@
 
 ## 👨‍💻 Sobre mí
 ```javascript
-const developer = {
+const estudiante = {
     nombre: "Nico",
-    rol: "Full Stack Developer",
+    estudios: "DAW - Desarrollo de Aplicaciones Web",
     ubicacion: "España 🇪🇸",
-    disponible: true,
+    buscoOportunidades: true,
     
-    pasiones: [
-        "Código limpio",
-        "Interfaces intuitivas", 
-        "Soluciones escalables"
+    objetivos: [
+        "Seguir aprendiendo",
+        "Crear proyectos reales", 
+        "Encontrar mi primer trabajo como programador"
     ]
 };
 ```
@@ -55,40 +55,15 @@ const developer = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🐍 Contribuciones
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 💼 Lo que hago
+## Lo que estoy aprendiendo
 
 <div align="center">
 
 | 🔧 Backend | 🎨 Frontend | 🗄️ Bases de Datos |
 |:----------:|:-----------:|:-----------------:|
 | APIs REST con Laravel | SPAs con React/Vue | Diseño de esquemas |
-| Arquitectura MVC | Interfaces responsive | Optimización de queries |
-| Autenticación segura | Estado con Redux/Pinia | Migrations & Seeds |
+| Arquitectura MVC | Interfaces responsive | Queries SQL |
+| PHP & Java | JavaScript moderno | MySQL |
 
 </div>
 
@@ -98,7 +73,7 @@ const developer = {
 
 ### 💬 ¡Hablemos!
 
-*Siempre abierto a nuevas oportunidades *
+*Abierto a prácticas, colaboraciones y oportunidades junior*
 
 <br/>
 
