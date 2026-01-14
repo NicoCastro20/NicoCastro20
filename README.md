@@ -4,7 +4,7 @@
 
 ### Estudiante de Desarrollo de Aplicaciones Web
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Estudiante+DAW;Laravel+%2B+React+%2B+Vue;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Estudiante+DAW;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG" />
 
 <br/>
 
@@ -55,13 +55,13 @@ const estudiante = {
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/-Abierto%20a%20prácticas-6366F1?style=for-the-badge" alt="Prácticas"/>
+<img src="https://img.shields.io/badge/-Colaboraciones-8B5CF6?style=for-the-badge" alt="Colaboraciones"/>
+<img src="https://img.shields.io/badge/-Oportunidades%20Junior-A855F7?style=for-the-badge" alt="Junior"/>
 
-*Abierto a prácticas, colaboraciones y oportunidades junior*
-
-<br/>
-
+<br/><br/>
 ```
-⭐ Si te gusta mi trabajo, no dudes en seguirme ⭐
+ Si te gusta mi trabajo, no dudes en seguirme 
 ```
 
 </div>
