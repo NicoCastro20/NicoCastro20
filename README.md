@@ -56,7 +56,6 @@ const estudiante = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/-Abierto%20a%20prácticas-6366F1?style=for-the-badge" alt="Prácticas"/>
-<img src="https://img.shields.io/badge/-Colaboraciones-8B5CF6?style=for-the-badge" alt="Colaboraciones"/>
 <img src="https://img.shields.io/badge/-Oportunidades%20Junior-A855F7?style=for-the-badge" alt="Junior"/>
 
 <br/><br/>
